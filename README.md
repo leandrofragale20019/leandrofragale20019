@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
  
 # 👀 About Me
--  I'm @tillit92
--  I'm currently learning about **React** and **Spring Boot**
--  Fun fact: I used to think there is only one coding language in the world
+-  I'm @leandrocoop
+-  I'm currently working with **React** and **Spring Boot**
+-  I'm making a copy of Instagram
  
 ## 💻 Tech Stack
 <img 
@@ -64,11 +64,7 @@ Here are some ideas to get you started:
     alt="Bootstrap"
     height="35"
 />
-<img
-    src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge"
-    alt="Tailwind"
-    height="35"
-/>
+
  
 ### Tools
  
