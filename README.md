@@ -19,6 +19,23 @@ Here are some ideas to get you started:
 -  I'm making a copy of Instagram
  
 ##  Tech Stack
+
+<img
+    src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"
+    alt="React"
+    height="35"
+/>
+<img
+    src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"
+    alt="MySQL"
+    height="35"
+/>
+<img
+    src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"
+    alt="TypeScript"
+    height="35"
+/>
+
 <img 
     src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" 
     alt="HTML" 
@@ -34,11 +51,7 @@ Here are some ideas to get you started:
     alt="JavaScript" 
     height="35"
 />
-<img
-    src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"
-    alt="React"
-    height="35"
-/>
+
 <img
     src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"
     alt="TypeScript"
@@ -49,11 +62,7 @@ Here are some ideas to get you started:
     alt="Spring Boot"
     height="35"
 />
-<img
-    src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"
-    alt="MySQL"
-    height="35"
-/>
+
 <img
     src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge"
     alt="Java"
