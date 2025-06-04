@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-# 👀 About Me
+#  About Me
 -  I'm @leandrocoop
 -  I'm currently working with **React** and **Spring Boot**
 -  I'm making a copy of Instagram
  
-## 💻 Tech Stack
+##  Tech Stack
 <img 
     src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" 
     alt="HTML" 
