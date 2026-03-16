@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
  
 #  About Me
--  I'm @leandrocoop
--  I'm currently working with **React** and **Spring Boot**
--  I'm making a copy of Instagram
+-  I'm @leandrofragale
+-  I'm currently working in a Ecom team
+
  
 ##  Tech Stack
 
