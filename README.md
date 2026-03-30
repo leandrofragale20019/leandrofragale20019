@@ -52,5 +52,4 @@ Building clean, reliable web apps — and always learning.
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22C55E)](https://linkedin.com/in/DEIN-PROFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22C55E)](https://github.com/leandrofragale)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22C55E)]([https://linkedin.com/in/DEIN-PROFIL](https://www.linkedin.com/in/leandro-fragale-53780b34a/))
