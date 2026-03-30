@@ -1,99 +1,56 @@
-<!--
-**tillit92/tillit92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-Here are some ideas to get you started:
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
-#  About Me
--  I'm @leandrofragale
--  I'm currently working in a Ecom team
+<div align="center">
 
- 
-##  Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0D1117&height=140&section=header&text=Leandro%20Fragale&fontSize=40&fontColor=E5E7EB&animation=fadeIn" />
 
-<img
-    src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"
-    alt="React"
-    height="35"
-/>
-<img
-    src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"
-    alt="MySQL"
-    height="35"
-/>
-<img
-    src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"
-    alt="TypeScript"
-    height="35"
-/>
+[![Basel, Switzerland](https://img.shields.io/badge/Basel%2C_Switzerland-0D1117?style=for-the-badge&logoColor=22C55E)](https://www.google.com/maps/place/Basel)
+[![E-Commerce](https://img.shields.io/badge/E--Commerce-0D1117?style=for-the-badge&logoColor=22C55E)](#)
 
-<img 
-    src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" 
-    alt="HTML" 
-    height="35"
-/>
-<img 
-    src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" 
-    alt="CSS" 
-    height="35"
-/>
-<img 
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" 
-    alt="JavaScript" 
-    height="35"
-/>
+</div>
 
-<img
-    src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"
-    alt="TypeScript"
-    height="35"
-/>
-<img
-    src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge"
-    alt="Spring Boot"
-    height="35"
-/>
+<br/>
 
-<img
-    src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge"
-    alt="Java"
-    height="35"
-/>
-<img
-    src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge"
-    alt="Bootstrap"
-    height="35"
-/>
+### About
 
- 
+E-Commerce Developer, based in Basel (CH).  
+Building clean, reliable web apps — and always learning.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0D1117&height=2&section=header"/>
+
+### Focus
+
+- E-Commerce features & UI improvements
+- Clean code, testing, performance
+- Side projects to learn new tech
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0D1117&height=2&section=header"/>
+
+### Tech Stack
+
+#### Frontend
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=22C55E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=22C55E)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=22C55E)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=22C55E)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=22C55E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=22C55E)
+
+#### Backend
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=22C55E)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=22C55E)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=22C55E)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0D1117&height=2&section=header"/>
+
 ### Tools
- 
-<img
-    src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge"
-    alt="Visual Studio Code"
-    height="35"
-/>
-<img
-    src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge"
-    alt="IntelliJ IDEA"
-    height="35"
-/>
-<img
-    src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge"
-    alt="Canva"
-    height="35"
-/>
-<img
-    src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge"
-    alt="Docker"
-    height="35"
-/>
+
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=22C55E)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=22C55E)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=22C55E)
+![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=22C55E)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:0D1117&height=2&section=header"/>
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22C55E)](https://linkedin.com/in/DEIN-PROFIL)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22C55E)](https://github.com/leandrofragale)
