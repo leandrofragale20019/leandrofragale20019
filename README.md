@@ -40,14 +40,14 @@ Building clean, reliable web apps — and always learning.
 
 ### Tools
 
-[![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=9CA3AF&cacheSeconds=86400)](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=9CA3AF&cacheSeconds=3600)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=9CA3AF&cacheSeconds=86400)](https://www.jetbrains.com/idea/)
 [![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=9CA3AF&cacheSeconds=86400)](https://www.docker.com)
-[![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=9CA3AF&cacheSeconds=86400)](https://www.canva.com/)
+[![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=9CA3AF&cacheSeconds=3600)](https://www.canva.com/)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9CA3AF,100:0D1117&height=2&section=header"/>
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=9CA3AF&cacheSeconds=86400)](https://www.linkedin.com/in/leandro-fragale-53780b34a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzlDQTNBRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDY2IDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBMMjIuMjI1IDB6Ii8+PC9zdmc+)](https://www.linkedin.com/in/leandro-fragale-53780b34a/)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=9CA3AF&cacheSeconds=86400)](https://www.instagram.com/leandro_fragale/)
