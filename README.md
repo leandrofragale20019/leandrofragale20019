@@ -55,8 +55,10 @@ Writing ABAP in the SAP department — and always learning.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leandrofragale20019&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=9CA3AF" />
-<img height="165" src="https://streak-stats.demolab.com?user=DEIN_USERNAME&hide_border=true&background=0D1117&ring=9CA3AF&fire=9CA3AF&stroke=9CA3AF&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=E5E7EB&sideLabels=9CA3AF&dates=9CA3AF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=leandrofragale20019&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=9CA3AF&v=2" />
+<img height="165" src="https://streak-stats.demolab.com?user=leandrofragale20019&hide_border=true&background=0D1117&ring=9CA3AF&fire=9CA3AF&stroke=9CA3AF&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=E5E7EB&sideLabels=9CA3AF&dates=9CA3AF&v=2" />
+
+</div>
 
 </div>
 
