@@ -49,8 +49,6 @@ Writing ABAP in the SAP department — and always learning.
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-0D1117?style=for-the-badge&logo=claude&logoColor=9CA3AF&cacheSeconds=86400)](https://www.anthropic.com/claude-code)
 [![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=9CA3AF&cacheSeconds=3600)](https://www.canva.com/)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9CA3AF,100:0D1117&height=2&section=header"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9CA3AF,100:0D1117&height=2&section=header"/>
